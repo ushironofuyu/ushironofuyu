@@ -1,5 +1,4 @@
-### Hi there 👋
-
+hi. check out my rentry if u want to know more about me.
 <!--
 **ushironofuyu/ushironofuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
